@@ -2,8 +2,6 @@ package tests;
 
 import org.testng.annotations.Test;
 
-import static com.codeborne.selenide.Selenide.open;
-
 public class MoodPandaTest extends BaseTest {
 
     @Test

@@ -3,7 +3,6 @@ package pages;
 import com.codeborne.selenide.Condition;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
-
 import static com.codeborne.selenide.Selenide.$;
 
 public class RateHappinessModal extends BaseModal {

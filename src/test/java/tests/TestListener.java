@@ -3,10 +3,8 @@ package tests;
 import org.openqa.selenium.NoSuchSessionException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
-import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-
 import java.util.concurrent.TimeUnit;
 
 import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
