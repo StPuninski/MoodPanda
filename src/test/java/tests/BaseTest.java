@@ -5,7 +5,6 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Listeners;
 import pages.LoginPage;
-import tests.TestListener;
 
 import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 
