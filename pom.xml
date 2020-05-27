@@ -26,14 +26,14 @@
                 <dependencies>
                     <dependency>
                         <groupId>org.aspectj</groupId>
-                        <artifactId>aspectjweaver                        </artifactId>
+                        <artifactId>aspectjweaver</artifactId>
                         <version>1.9.1</version>
                     </dependency>
                 </dependencies>
             </plugin>
 
-        </plugins>>
-    </build>>
+        </plugins>
+    </build>
 
 
     <dependencies>
